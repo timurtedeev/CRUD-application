@@ -4,6 +4,6 @@ When creating a CRUD application,
 I used these technologies :
 Java,
 Spring (Data, Boot),
-MySQL
+PostgreSQL
 Maven,
 Lombok
