@@ -1,4 +1,4 @@
-My frist  ofREST application
+My first  ofREST application
 REST application that provides REST API.
 When creating a CRUD application,
 I used these technologies :
